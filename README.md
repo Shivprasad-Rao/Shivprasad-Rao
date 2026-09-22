@@ -13,12 +13,29 @@
 
 ## 🔥 Technical Mastery
  
-![](https://skillicons.dev/icons?i=cs,dotnet) ![](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white) ![](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)  
-![](https://skillicons.dev/icons?i=python,aws,docker) ![](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=black) ![](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)  
-![](https://skillicons.dev/icons?i=nodejs,ts,express) ![](https://img.shields.io/badge/Hono.js-FF4A00?style=flat&logo=javascript&logoColor=white)  
-![](https://skillicons.dev/icons?i=react,angular,flutter)  
-![](https://skillicons.dev/icons?i=postgres,mongodb,rabbitmq) ![](https://skillicons.dev/icons?i=git,bitbucket)  
-![](https://skillicons.dev/icons?i=tensorflow) ![](https://img.shields.io/badge/RAG%20Pipelines-181717?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/MCP%20Servers-FF5733?style=flat&logo=protocols&logoColor=white)
+<div align="center">
+<!-- AI & ML -->
+<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" /><br/>
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,express" /><br/>
+<!-- Cloud, DevOps & Messaging -->
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,rabbitmq,git,bitbucket" /><br/>
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,angular,flutter,html,css" /><br/>
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+<br/><br/>
+ 
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP%20Servers-FF5733?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+</div>
  
 ---
  
